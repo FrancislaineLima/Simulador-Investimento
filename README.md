@@ -1,5 +1,4 @@
-# Simulador-Investimentos
-## Simulador interativo de Fundos Imobiliários 📈 (Excel)
+# Simulador-Investimentos 📈 (Excel)
 
 O FranInvest é um simulador interativo de investimentos desenvolvido inteiramente no Microsoft Excel, com foco em planejamento financeiro, projeção de patrimônio e tomada de decisão baseada em cenários.
 
